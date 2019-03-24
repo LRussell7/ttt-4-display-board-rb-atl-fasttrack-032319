@@ -9,3 +9,6 @@ def display_board
  end
  
  board = [" "," "," "," "," "," "," "," "," "]
+ 
+ def display_board(board)
+   puts 
